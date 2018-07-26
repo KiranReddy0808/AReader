@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\43d39fef99645f6a7c2f487bd145696222ab5c8f\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\43d39fef99645f6a7c2f487bd145696222ab5c8f\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\43d39fef99645f6a7c2f487bd145696222ab5c8f\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\43d39fef99645f6a7c2f487bd145696222ab5c8f\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\43d39fef99645f6a7c2f487bd145696222ab5c8f\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\43d39fef99645f6a7c2f487bd145696222ab5c8f\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\43d39fef99645f6a7c2f487bd145696222ab5c8f\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\pskr\\Desktop\\ocr-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\pskr\\.android\\build-cache\\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:10:5-34:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\pskr\.android\build-cache\7c5c1789a09846e394bf716a960b565c5133d43a\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\pskr\.android\build-cache\42aec388a4ac3d289d96d91b65972917f9c6d4e9\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\pskr\.android\build-cache\5098ba3b7fc674a383b1c8de95dc0050af83b287\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\pskr\.android\build-cache\f912600dce534a4c52703b7df1b878e00886f0ab\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:design:24.2.0] C:\Users\pskr\.android\build-cache\43d39fef99645f6a7c2f487bd145696222ab5c8f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\pskr\.android\build-cache\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\pskr\.android\build-cache\94d6d26c2830179559503c62b8acac871e246c80\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\pskr\.android\build-cache\aec3cb4b4bc635d8128340183544bcfdc9b75fc6\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\pskr\.android\build-cache\2383775a9da92d351473509752d4b6cdda8f5d76\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\pskr\.android\build-cache\247a36d13d517e7bad3b97f8879b888a848fb5bd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\pskr\.android\build-cache\7b69b5b4c965db9e6e28b78122ba22059106ea33\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\pskr\.android\build-cache\974c15ad00fb31ee06f5294d6ab779a630d162df\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\pskr\.android\build-cache\07b53ef6e603a1259661dc43e70017f05e998727\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\pskr\.android\build-cache\799a33b448cdd2706f19536b5a7e4c898b225dff\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:15:9-40
+	android:supportsRtl
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:16:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:12:9-42
+	android:allowBackup
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:14:9-38
+	android:theme
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:18:9-20:35
+	android:value
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:20:13-32
+	android:name
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:19:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:23:13-88
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:32:9-33:40
+	android:label
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml:32:19-100
+uses-sdk
+INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\pskr\.android\build-cache\7c5c1789a09846e394bf716a960b565c5133d43a\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\pskr\.android\build-cache\42aec388a4ac3d289d96d91b65972917f9c6d4e9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\pskr\.android\build-cache\5098ba3b7fc674a383b1c8de95dc0050af83b287\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\pskr\.android\build-cache\f912600dce534a4c52703b7df1b878e00886f0ab\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:24.2.0] C:\Users\pskr\.android\build-cache\43d39fef99645f6a7c2f487bd145696222ab5c8f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\pskr\.android\build-cache\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\pskr\.android\build-cache\94d6d26c2830179559503c62b8acac871e246c80\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\pskr\.android\build-cache\aec3cb4b4bc635d8128340183544bcfdc9b75fc6\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] C:\Users\pskr\.android\build-cache\2383775a9da92d351473509752d4b6cdda8f5d76\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] C:\Users\pskr\.android\build-cache\247a36d13d517e7bad3b97f8879b888a848fb5bd\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] C:\Users\pskr\.android\build-cache\7b69b5b4c965db9e6e28b78122ba22059106ea33\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] C:\Users\pskr\.android\build-cache\974c15ad00fb31ee06f5294d6ab779a630d162df\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:recyclerview-v7:24.2.0] C:\Users\pskr\.android\build-cache\7ae99df487e27206b5be81d5e7927123f3cbaabf\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\pskr\.android\build-cache\07b53ef6e603a1259661dc43e70017f05e998727\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] C:\Users\pskr\.android\build-cache\799a33b448cdd2706f19536b5a7e4c898b225dff\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\pskr\.android\build-cache\ba0285c2fcbb9e289f9fdb75db73352ff3225eef\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pskr\Desktop\ocr-reader\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\pskr\.android\build-cache\42aec388a4ac3d289d96d91b65972917f9c6d4e9\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\pskr\.android\build-cache\42aec388a4ac3d289d96d91b65972917f9c6d4e9\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\pskr\.android\build-cache\42aec388a4ac3d289d96d91b65972917f9c6d4e9\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\pskr\.android\build-cache\42aec388a4ac3d289d96d91b65972917f9c6d4e9\output\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\pskr\.android\build-cache\f912600dce534a4c52703b7df1b878e00886f0ab\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\pskr\.android\build-cache\f912600dce534a4c52703b7df1b878e00886f0ab\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\pskr\.android\build-cache\f912600dce534a4c52703b7df1b878e00886f0ab\output\AndroidManifest.xml:22:13-58
